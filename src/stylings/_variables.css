@@ -1,0 +1,12 @@
+:root {
+    --bgColor: #131a24;
+    --incorrectColor: #f1bca2;
+    --questionBg: #29332d;
+    /* --questionBg: #4b6d0c; */
+    --correctColor: #dce5b0;
+    --btnQuestionBg: #e8e6da;
+    --btnNextBg: #a0d600;
+    --questionHeadColor: #a0d600;
+    --btnFontColor: #000000;
+    --white: #ffff;
+}
